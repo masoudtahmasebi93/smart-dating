@@ -1,0 +1,8 @@
+{
+  "name": "smart-dating",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ca3f4f4a"
+}
